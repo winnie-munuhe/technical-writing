@@ -1,5 +1,5 @@
 # technical-writing
-Technical writin assignment
+Technical writing assignment
 
  1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Understanding the audience's expertise level helps tailor the complexity, tone, and vocabulary of the content. For experts, you can use technical terms and dive into complex details. For a general audience, use simple language and analogies to make the information more digestible.
